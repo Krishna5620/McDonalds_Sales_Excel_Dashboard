@@ -50,7 +50,7 @@ Questions:
 • Most Sold Item:Side Salad
 👉This shows steady demand with customers ordering more than 2 items per bill on average.
 
-• 2. Daily Order Trend
+2. Daily Order Trend
 • Orders peaked in January (1,845).
 • Dropped in February (1,685), possibly due to seasonal slowdown.
 • Recovered in March (1,840), showing stable growth
